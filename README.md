@@ -8,8 +8,8 @@ Mixed methods research provides an opportunity to develop robust implicit metric
 Jean Garcia-Gathright, Christine Hosey, Brian St. Thomas, Ben Carterette, and Fernando Diaz. 2018. Mixed Methods for Evaluating User Satisfaction: A 3/4-day tutorial. In Twelfth ACM Conference on Recommender Systems (RecSys ’18), October 2–7, 2018, Vancouver, BC, Canada. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/3240323.3241622
 
 ## Slides
-[Part 1](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys2018_Evaluation_Tutorial_Part1.pdf): Overview of mixed methods, qualitative and quantitative data collection
+[Part 1](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/blob/master/RecSys2018_Evaluation_Tutorial_Part1.pdf): Overview of mixed methods, qualitative and quantitative data collection
 
-[Part 2](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys2018_Evaluation_Tutorial_Part2.pdf): Qualitative and quantitative data analysis, best practices for mixed methods teams
+[Part 2](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/blob/master/RecSys2018_Evaluation_Tutorial_Part2.pdf): Qualitative and quantitative data analysis, best practices for mixed methods teams
 
-[Part 3](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys2018_Evaluation_Tutorial_Part3.pdf): Hypothesis testing
+[Part 3](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/blob/master/RecSys2018_Evaluation_Tutorial_Part3.pdf): Hypothesis testing
