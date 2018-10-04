@@ -9,6 +9,7 @@ Jean Garcia-Gathright, Christine Hosey, Brian St. Thomas, Ben Carterette, and Fe
 
 ## Slides
 [Part 1](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys2018_Evaluation_Tutorial_Part1.pdf): Overview of mixed methods, qualitative and quantitative data collection
+
 [Part 2](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys2018_Evaluation_Tutorial_Part2.pdf): Qualitative and quantitative data analysis, best practices for mixed methods teams
-[Part 3](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys20
-18_Evaluation_Tutorial_Part3.pdf): Hypothesis testing
+
+[Part 3](https://github.com/jeanigarcia/recsys2018-evaluation-tutorial/RecSys2018_Evaluation_Tutorial_Part3.pdf): Hypothesis testing
